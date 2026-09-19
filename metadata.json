@@ -1,0 +1,6 @@
+{
+  "name": "Extractor XML y ZIP Outlook",
+  "description": "Herramienta de extracción y descarga masiva de archivos XML y ZIP desde correos de Outlook y Microsoft 365 con descompresión automática y vista previa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
